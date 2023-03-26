@@ -1,0 +1,28 @@
+             Cafe Severney
+              Tax Invoice
+------------------------------------
+Bill Number:              302
+Customer Name:   Priyanshu Kumar
+Phone Number:        7905796473
+------------------------------------
+            Bill Description
+====================================
+Article          QTY           Price
+====================================
+Tea               1            15
+Noodles           2            140
+Apple Pie         4            240
+====================================
+Number of Bevereges:            1
+Number of Meals:                140
+Number of Deserts:              240
+
+Total Quantity:                 381
+------------------------------------
+Taxable Value:       Rs. 395.0
+Tax:                     47.4
+Service Tax:             23.7
+Discount:                46.61
+====================================
+Total Bill:          Rs. 419.49
+

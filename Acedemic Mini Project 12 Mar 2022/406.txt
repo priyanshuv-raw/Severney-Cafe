@@ -1,0 +1,34 @@
+             Cafe Severney
+              Tax Invoice
+------------------------------------
+Bill Number:              406
+Customer Name:   Kanishtha Sahu
+Phone Number:        9336931661
+------------------------------------
+            Bill Description
+====================================
+Article          QTY           Price
+====================================
+Water             1            10
+Burger            4          280
+Momo              12            84
+Brownie           4            160
+Chocolate         4            200
+Puddings          4            140
+Waffle            4            120
+Swiss Roll        4            180
+Apple Pie         4            240
+====================================
+Number of Bevereges:            1
+Number of Meals:                16
+Number of Deserts:              24
+
+Total Quantity:                 277
+------------------------------------
+Taxable Value:       Rs. 1294.0
+Tax:                     155.28
+Service Tax:             77.64
+Discount:                152.69
+====================================
+Total Bill:          Rs. 1374.23
+

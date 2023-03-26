@@ -1,0 +1,29 @@
+             Cafe Severney
+              Tax Invoice
+------------------------------------
+Bill Number:              411
+Customer Name:   PRIYANSHU
+Phone Number:        7905796342
+------------------------------------
+            Bill Description
+====================================
+Article          QTY           Price
+====================================
+Tea               1            15
+Espresso          1            35
+Noodles           1            70
+Waffle            1            30
+====================================
+Number of Bevereges:            2
+Number of Meals:                70
+Number of Deserts:              1
+
+Total Quantity:                 73
+------------------------------------
+Taxable Value:       Rs. 150.0
+Tax:                     18.0
+Service Tax:             9.0
+Discount:                17.7
+====================================
+Total Bill:          Rs. 159.3
+

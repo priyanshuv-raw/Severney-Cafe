@@ -1,0 +1,27 @@
+             Cafe Severney
+              Tax Invoice
+------------------------------------
+Bill Number:              367
+Customer Name:   Priyanshu
+Phone Number:        983
+------------------------------------
+            Bill Description
+====================================
+Article          QTY           Price
+====================================
+Tea               1            15
+Brownie           2            80
+====================================
+Number of Bevereges:            1
+Number of Meals:                0
+Number of Deserts:              2
+
+Total Quantity:                 3
+------------------------------------
+Taxable Value:       Rs. 95.0
+Tax:                     11.4
+Service Tax:             5.7
+Discount:                11.21
+====================================
+Total Bill:          Rs. 100.89
+
